@@ -19,7 +19,7 @@ _{No known bugs.}_
 
 ## Support and contact details
 
-_{For issues and questions that may arise, email me at mollyklecompte@gmail.com}_
+_{For issues and questions that may arise, email me at kd14g@my.fsu.edu}_
 
 ## Technologies Used
 
@@ -30,4 +30,4 @@ _{HTML}_
 
 *{This software is licensed under the MIT license.}*
 
-Copyright (c) 2016 **_{Molly LeCompte, Joanna Anderson}_**
+Copyright (c) 2016 **_{Molly LeCompte, Kiet Duong}_**
