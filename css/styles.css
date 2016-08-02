@@ -1,0 +1,21 @@
+
+
+h1 {color: red;
+  text-align: center;}
+
+h2 {font-style: bold;
+  text-align: center;}
+
+p {font-family: times;
+  color: red;
+}
+
+img {padding: 12px;
+  border: 12px solid blue;
+  background-color: green;
+}
+
+ul {font-size: 20px;
+  font-weight: 800;
+  line-height: 30px;
+}
