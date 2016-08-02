@@ -1,18 +1,23 @@
 
 
-h1 {color: red;
-  text-align: center;}
-
-h2 {font-style: bold;
-  text-align: center;}
-
-p {font-family: times;
-  color: red;
+h1 {font-size: 180px; color: black;
+  text-align: center;
 }
 
-img {padding: 12px;
-  border: 12px solid blue;
+h2 {font-size: 80px;font-style: oblique;
+  text-align: center;
+}
+
+p {font-size: 12px; font-family: times;
+  color: black;
+  text-align: center;
+}
+
+img {padding: 6px;
+  border: 12px solid #9932CC;
   background-color: green;
+  display: block;
+  margin: auto;
 }
 
 ul {font-size: 20px;
