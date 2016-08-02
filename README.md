@@ -2,7 +2,7 @@
 
 #### _My very first webpage, {8/1/2016}_
 
-#### By _Molly LeCompte, Joanna Anderson_
+#### By _Molly LeCompte, Kiet Duong_
 
 ## Description
 
